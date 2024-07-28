@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// TODO split into different files
+
+main {
+  @apply
+    min-h-[calc(100vh-60px-150px)]
+    flex
+    flex-col
+    gap-y-12
+    lg:gap-y-[100px]
+    mb-12
+    lg:mb-[100px]
+  ;
+}
+
+.container {
+  @apply px-6 max-md:max-w-full md:px-0;
+}
+
+.control-element {
+  input, textarea {
+    @apply
+      relative
+      outline-none
+      rounded-none
+      border-b-transparent
+      border-b-[3px]
+      bg-gray-200
+      w-full
+      p-5
+      transition-all
+    ;
+
+    &:focus {
+      @apply border-b-primary;
+    }
+
+    &:disabled {
+      @apply text-gray-600;
+    }
+  }
+
+  &.error {
+    input, textarea {
+      @apply border-b-error;
+    }
+  }
+  
+  input {
+    @apply h-12;  
+  }
+  
+  textarea {
+    @apply h-60 resize-none;
+  }
+}
+
+h2 {
+  @apply font-semibold text-3xl mb-4;
+}
+
+h3 {
+  @apply font-semibold text-2xl mb-2;
+}
+
+h4 {
+  @apply font-semibold text-xl mb-1;
+}
+
+.fade-enter-active {
+  transition: all .25s ease;
+}
+.fade-leave-active {
+  transition: all .25s ease;
+}
+.fade-enter-from, .fade-leave-to {
+  opacity: 0;
+}
+
+.slide-enter-active {
+  transition: all .25s ease;
+}
+.slide-leave-active {
+  transition: all .25s ease;
+}
+.slide-enter-from, .slide-leave-to {
+  @apply -translate-y-full;
+}

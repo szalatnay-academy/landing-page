@@ -1,0 +1,68 @@
+{
+  "navigation": {
+    "index": "Home",
+    "workshops": "Workshops",
+    "composers-guide": "Young Composer's Guide",
+    "videos": "Videos",
+    "biography": "Biografie",
+    "contact": "Kontakt",
+    "imprint": "Impressum",
+    "privacy-policy": "Datenschutzerklärung"
+  },
+  "hero-banner": {
+    "title": "Musikerwerb durch das Klavier",
+    "description": "Eine innovative Unterrichtsmethode, welche das Musizieren spielerisch vermittelt.",
+    "watch-video": "Video ansehen",
+    "learn-more": "Mehr erfahren",
+    "transcription": "Transkription Butzemann"
+  },
+  "composers-guide": {
+    "order": "Bestellen",
+    "example": "Beispielheft"
+  },
+  "epta": {
+    "action": "Mehr erfahren"
+  },
+  "workshops": {
+    "sign-up": "Anmelden"
+  },
+  "contact": {
+    "send": "Senden",
+    "sent": "Gesendet"
+  },
+  "forms": {
+    "labels": {
+      "firstname": "Vorname",
+      "lastname": "Nachname",
+      "email": "Mail-Adresse",
+      "message": "Nachricht"
+    },
+    "validation": {
+      "required": {
+        "firstname": "Der Vorname ist erforderlich",
+        "lastname": "Der Nachname ist erforderlich",
+        "email": "Die Mail-Adresse ist erforderlich",
+        "message": "Die Nachricht ist erforderlich",
+        "address": "Die Anschrift ist erforderlich"
+      },
+      "min-length": {
+        "firstname": "Der Vorname muss mindestens {characters} Zeichen enthalten",
+        "lastname": "Der Nachname muss mindestens {characters} Zeichen enthalten",
+        "message": "Die Nachricht muss mindestends {characters} Zeichen enthalten"
+      },
+      "max-length": {
+        "firstname": "Der Vorname darf höchstens {characters} Zeichen enthalten",
+        "lastname": "Der Nachname darf höchstens {characters} Zeichen enthalten",
+        "message": "Die Nachricht darf höchstens {characters} Zeichen enthalten"
+      },
+      "email": "Die Mail-Adresse ist ungültig"
+    },
+    "error": {
+      "generic": "Ein Fehler ist aufgetreten, bitte versuchen Sie es später erneut.",
+      "captcha": "Anti-Roboter Verifizierung fehlgeschlagen. Bitte versuchen Sie es später erneut."
+    }
+  },
+  "not-found": {
+    "title": "404 - Seite nicht gefunden"
+  }
+}

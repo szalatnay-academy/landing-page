@@ -1,0 +1,38 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "lint": "npx eslint .",
+    "lint:fix": "npx eslint . --fix"
+  },
+  "devDependencies": {
+    "@iconify-json/material-symbols": "^1.2.6",
+    "@nuxt/content": "^3.11.0",
+    "@nuxt/eslint": "^1.13.0",
+    "@nuxt/icon": "^2.2.1",
+    "@nuxt/scripts": "0.13.2",
+    "@nuxtjs/i18n": "^10.2.1",
+    "@nuxtjs/robots": "^5.7.0",
+    "@nuxtjs/seo": "3.4.0",
+    "@nuxtjs/tailwindcss": "^6.12.1",
+    "@nuxtjs/turnstile": "1.1.1",
+    "eslint": "^9.8.0",
+    "nuxt": "^4.3.0",
+    "nuxt-og-image": "5.1.13",
+    "nuxt-swiper": "2.0.1",
+    "sass": "^1.77.8",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@elia-schenker/eslint-plugin": "^1.0.1",
+    "@vuelidate/core": "^2.0.3",
+    "@vuelidate/validators": "^2.0.4",
+    "@vueuse/nuxt": "^14.2.0",
+    "better-sqlite3": "^12.6.2"
+  },
+  "packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610"
+}

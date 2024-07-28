@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="51" height="50"><svg width="51" height="50" viewBox="0 0 51 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="50" height="49" fill="black"></rect>
+<rect x="0.5" y="0.5" width="50" height="49" stroke="black"></rect>
+<rect x="9.25" y="7.25" width="10.5" height="35.5" fill="white"></rect>
+<rect x="9.25" y="7.25" width="10.5" height="35.5" stroke="black" stroke-width="0.5"></rect>
+<rect x="20.25" y="7.25" width="10.5" height="35.5" fill="white"></rect>
+<rect x="20.25" y="7.25" width="10.5" height="35.5" stroke="black" stroke-width="0.5"></rect>
+<rect x="31.25" y="7.25" width="10.5" height="35.5" fill="white"></rect>
+<rect x="31.25" y="7.25" width="10.5" height="35.5" stroke="black" stroke-width="0.5"></rect>
+<rect x="17.25" y="7.25" width="5.5" height="23.5" fill="black"></rect>
+<rect x="17.25" y="7.25" width="5.5" height="23.5" stroke="black" stroke-width="0.5"></rect>
+<rect x="28.25" y="7.25" width="5.5" height="23.5" fill="black"></rect>
+<rect x="28.25" y="7.25" width="5.5" height="23.5" stroke="black" stroke-width="0.5"></rect>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
