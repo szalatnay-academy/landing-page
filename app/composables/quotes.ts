@@ -23,4 +23,8 @@ export const useQuotes = () => [
     quote: 'Dein Konzept ist genial und ausgereift. Vielen Dank für die tolle Präsentation in der kurzen Zeit. Auch die Idee, die Synthesia als Screenshot, gespiegelt und 90 Grad gedreht als Brücke zum Notenlesen zu nehmen fand ich toll. Vielen Dank für diesen Tipp!!',
     person: 'S.M.',
   },
+  {
+    quote: 'Etwas verspätet, aber ganz mit Freude mein Feedback vom letzten Freitag. Es war super! So inspirierend und es übertraf meine Erwartungen total. Ich bin begeistert, Andi. Es ist so kreativ, spielerisch, fördernd, unterstützend und trifft, meiner Meinung nach, genau das junge Kind (den jungen Menschen), der sich mit dem Klavier anfreunden möchte. Es unterstützt den natürlichen Impuls total und gibt die nötige Sicherheit ohne die Spielfreude zu dämmen. Bin echt begeistert! (...) Deine Methode ist so Basic, aber mit enormem Raum der Möglichkeiten. Und absolut spielerisch und kreativ. Und das ist es doch, was wir fördern möchten: das Spielerische und Kreative! Ganz toll, Andi! Vielen Dank für deine so gute Übermittlung! Ich freue mich schon auf den nächsten Teil!',
+    person: 'J.C.'
+  }
 ];
